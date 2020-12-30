@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "c2eaca0a43651b9fbbbe95fbed8d735e"
+    "revision": "c32c20c6cadf821eaeba7a00811d8915"
   },
   {
     "url": "asksinpp.jpg",
@@ -662,8 +662,8 @@ self.__precacheManifest = [
     "revision": "cbb918172dfd125cf4ff054c36732da5"
   },
   {
-    "url": "assets/js/100.fc2c5bed.js",
-    "revision": "843d8e793a167521c81c21f5829bfd81"
+    "url": "assets/js/100.f3850b32.js",
+    "revision": "26158f7d2e31220cc747ef393f9ee6d0"
   },
   {
     "url": "assets/js/101.7f535f19.js",
@@ -1050,8 +1050,8 @@ self.__precacheManifest = [
     "revision": "b5454aa4fd6248e232644287bf4b9933"
   },
   {
-    "url": "assets/js/app.8200d9b3.js",
-    "revision": "d7dcc8f8fcf615e513c48b27b051a293"
+    "url": "assets/js/app.2424345a.js",
+    "revision": "fdf41864d035577ddf7b13d68983d424"
   },
   {
     "url": "assets/js/vendors~docsearch.dd5aa24f.js",
@@ -1063,7 +1063,7 @@ self.__precacheManifest = [
   },
   {
     "url": "Gehaeuse/index.html",
-    "revision": "0c9c8b08a1fa7ddf3e0e00fb10eb0975"
+    "revision": "cdfe66f9eeadf2daf54ce99e32acd5a9"
   },
   {
     "url": "googlebab0ab47e2267397.html",
@@ -1071,75 +1071,75 @@ self.__precacheManifest = [
   },
   {
     "url": "Grundlagen/01_hardware.html",
-    "revision": "83bf0ae4ad0fc6cc3dc366513d2d2fa4"
+    "revision": "2c223055c05a77492b79235d44e20f24"
   },
   {
     "url": "Grundlagen/02_software.html",
-    "revision": "ab6b98f0a95cf36655e556b1da08a23c"
+    "revision": "3d523c85f4b01f025f349e5653d914ad"
   },
   {
     "url": "Grundlagen/03_ccu.html",
-    "revision": "1433aa45e0a8e0e2e8ae93a5f7d9a01e"
+    "revision": "5165c6cf639d9e8b24fc0f21a2313cbc"
   },
   {
     "url": "Grundlagen/04-isp.html",
-    "revision": "20cded3580e59cf2c6771b63d1a11e5e"
+    "revision": "e9534ed589673823b2875bd86799d61c"
   },
   {
     "url": "Grundlagen/10_weitere_infos.html",
-    "revision": "ce32eb1055b41af84ef324123e9ff810"
+    "revision": "5eae49857f83af4d52d44b23e0c8ae99"
   },
   {
     "url": "Grundlagen/FAQ/babbling_idiot.html",
-    "revision": "7035f48597bc6b27b1d8a7fae5ddffb1"
+    "revision": "078b3e67c2a07186ae6ab991eaf8517f"
   },
   {
     "url": "Grundlagen/FAQ/Debugging.html",
-    "revision": "713bf1fd556b4bc3fef7a1dc5839eb87"
+    "revision": "f538fb1ff7bdbd08a7d6561d17dbb677"
   },
   {
     "url": "Grundlagen/FAQ/Fehlerhafte_CC1101.html",
-    "revision": "b3a6a18972bcc7c3b169ac772695141a"
+    "revision": "2511a0a3268e86d1cca47cc73b4ac2fd"
   },
   {
     "url": "Grundlagen/FAQ/ftdi-flash-probleme.html",
-    "revision": "724a615e43c0f23ed6d7e6bd2313eb2f"
+    "revision": "4c698ce090a373299aca77523d30d97f"
   },
   {
     "url": "Grundlagen/FAQ/index.html",
-    "revision": "44132992cb869db0ce189bb446444ca1"
+    "revision": "e25a00f66767ba84bc9a2f612307b672"
   },
   {
     "url": "Grundlagen/FAQ/LED_Grundlagen.html",
-    "revision": "9b0b6657e11ed5ceac1123e469b67527"
+    "revision": "f020f941191d7f0ebd7d351fba99d5c0"
   },
   {
     "url": "Grundlagen/FAQ/Standard_vs_gesicherte_Uebertragung.html",
-    "revision": "abf9d73cda5c71d3693eac57d39c582e"
+    "revision": "e340ac947aadae1ef48f0c6ad8d22b77"
   },
   {
     "url": "Grundlagen/index.html",
-    "revision": "fc7c1b6c209fee654ce4e4dac3fe0b76"
+    "revision": "5905d6311098bb0b0d442c1b96a24e6c"
   },
   {
     "url": "Grundlagen/STM32/01_flashen.html",
-    "revision": "778654584ace271023f84600584cb4f0"
+    "revision": "26517fea23fc1f8a43b2798a4e686cdc"
   },
   {
     "url": "Grundlagen/STM32/10_weiteres.html",
-    "revision": "58ff63baa1f9d11b3847794229dd58c7"
+    "revision": "a0d06325c5413937d3b41d738b8f1a0f"
   },
   {
     "url": "Grundlagen/STM32/index.html",
-    "revision": "6bece63dc84a41073171af0000067284"
+    "revision": "fd4bc961134edef59c378c3ec1d17fd0"
   },
   {
     "url": "impressum.html",
-    "revision": "caae99c10c9adbdc889b785cd661e3ff"
+    "revision": "352d0829be45fa19cddc457fa50dcfce"
   },
   {
     "url": "index.html",
-    "revision": "16132e59420c517f053256e0083cc8a4"
+    "revision": "79127fca4293f00b8fa5492194d303b9"
   },
   {
     "url": "logo.jpg",
@@ -1147,7 +1147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "Other/Kommentare.html",
-    "revision": "bd0b9c5de5c69ef1233e8264210ce0b2"
+    "revision": "57d76df0d6f4f0b94048d79019022cad"
   },
   {
     "url": "platine.jpg",
@@ -1155,7 +1155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "Platinen/index.html",
-    "revision": "2dad8025a9bc9dcd1d77f5fa72b828b0"
+    "revision": "aad0ae33a13ea37968363b023523a64d"
   },
   {
     "url": "pro_mini.jpg",
@@ -1163,279 +1163,279 @@ self.__precacheManifest = [
   },
   {
     "url": "Projekte/Asselhead/HM-LC-SW1-Li.html",
-    "revision": "8e0db221f9e42369f5f8b12d2283c259"
+    "revision": "24c7c3ec580aa40c22ed40417d04ea7b"
   },
   {
     "url": "Projekte/der-pw/HM-LC-DW-WM/index.html",
-    "revision": "af8d776c880bc4df2f683fcb7014a22c"
+    "revision": "af9de0b2a9296a086da30c23eae5c5ef"
   },
   {
     "url": "Projekte/der-pw/HM-LC-SW1-BA-PCB_mini_MAX1724.html",
-    "revision": "98e584723cbd77e5cb606f52d71d501f"
+    "revision": "f3c3315e3b350a65bd4a778af0d31c28"
   },
   {
     "url": "Projekte/der-pw/HM-LC-Sw1-Pl-DN-R1_OBII-Projekt.html",
-    "revision": "b7be82c88248be0c03e0a8f1c5b1fb4d"
+    "revision": "a3fe6c45e990fca992c35a1f0eeb1a85"
   },
   {
     "url": "Projekte/der-pw/HM-LC-Sw1-Pl-DN-R1_S26.html",
-    "revision": "3c67179c6cccb198763effc6b4a8a0e1"
+    "revision": "58981196b303635442499e6e223987e2"
   },
   {
     "url": "Projekte/fhem-community/Dashbutton.html",
-    "revision": "5fcda41a7b8eb713084ab2ccd7fdd50f"
+    "revision": "9cf1b9a3a9facc1f61d0f06cac39bcf6"
   },
   {
     "url": "Projekte/fhem-community/HB-IBUT-8.html",
-    "revision": "b3c1a13faf789731aa58b76d5fc897e3"
+    "revision": "78499d9f8d275cdbfee07e9f66e39196"
   },
   {
     "url": "Projekte/fhem-community/MAX-Zwischenstecker.html",
-    "revision": "3497253876d965244cb81c860e4cfaef"
+    "revision": "f22486e2e9130c5e2c46964fec657040"
   },
   {
     "url": "Projekte/gelegenheitsbastler/Akku-LED-Strahler.html",
-    "revision": "a064434d346e966622e24fc47ab50ac3"
+    "revision": "e833d6a7ccb6bf74fa78e5d14f5f655e"
   },
   {
     "url": "Projekte/gelegenheitsbastler/Gardena-Ventil.html",
-    "revision": "576f67cf5076632484f624b36b9627f9"
+    "revision": "b7088b88f0404a4a3a379864170c4dfc"
   },
   {
     "url": "Projekte/gelegenheitsbastler/HB-LC-Sw12.html",
-    "revision": "e0a88b412afa0ad3edba50007fbc9930"
+    "revision": "8a4121afdae9bfcefe19df45adc8e267"
   },
   {
     "url": "Projekte/gelegenheitsbastler/HB-UNI-Sen-PRESS.html",
-    "revision": "ef2011b8edbe8095d5915f97eb9b14ee"
+    "revision": "a1042f2419e44f22aac4090f403ec7b6"
   },
   {
     "url": "Projekte/gelegenheitsbastler/HM-LC-Dim1PWM_Konstantstrom.html",
-    "revision": "e59beb342b0b0407a205d9f3cc130397"
+    "revision": "5e2f0c6eb429f40573b646170ad4eb1a"
   },
   {
     "url": "Projekte/gelegenheitsbastler/HM-LC-Sw1-FM.html",
-    "revision": "8a2f0c7d0d9258f73583443197fb0a72"
+    "revision": "51e61c78bfa4969d9b88c2872d949d13"
   },
   {
     "url": "Projekte/gelegenheitsbastler/Sonoff-4CH-Umbau.html",
-    "revision": "971d82268fdb926ea691112ec5bbe432"
+    "revision": "aae53623ccec485707349add00b44eb1"
   },
   {
     "url": "Projekte/gelegenheitsbastler/Sonoff-Basic-Umbau.html",
-    "revision": "0f75bb7b64ec6a34c87e866e8d18c104"
+    "revision": "746a806b775b2cf9b93e65cadefdf8fd"
   },
   {
     "url": "Projekte/gelegenheitsbastler/Sonoff-S20-Umbau.html",
-    "revision": "187d050f752ebdc634a4e3f104cc1774"
+    "revision": "9dea6d26e227220acad05800f419cf58"
   },
   {
     "url": "Projekte/index.html",
-    "revision": "a8869550d21ef525beb368d61d63cbff"
+    "revision": "af4b7e00562a047924da0f2ee4a776f3"
   },
   {
     "url": "Projekte/jan/HM-RC-4/index.html",
-    "revision": "b277b959d3561b6943f4e7f956b862aa"
+    "revision": "7612bd48dd29313d76b01c9f42b7b3d3"
   },
   {
     "url": "Projekte/jan/HM-SEC-MDIR/index.html",
-    "revision": "764871af17aa1090128f40b9b35bad92"
+    "revision": "8b94ca4329382063fc5d510c5364f06c"
   },
   {
     "url": "Projekte/jerome/AskSinAnalyzer.html",
-    "revision": "78f46c3b6348acf73a4470852b9e5c69"
+    "revision": "73e30a0fb989398f0afe208d41e44e92"
   },
   {
     "url": "Projekte/jerome/HB-Dis-EP-42BW.html",
-    "revision": "632b96af9ae2e960dfdf0006907a78c0"
+    "revision": "cdc9c810f799aefde021d621b6d91a16"
   },
   {
     "url": "Projekte/jerome/HB-OU-MP3-LED.html",
-    "revision": "d1964e59912018512f29840b4a9f9d33"
+    "revision": "5908c815e4621a2d0b6a4606f6ab6a30"
   },
   {
     "url": "Projekte/jerome/HB-RC-12-EP.html",
-    "revision": "e535ec4f6d7f6350c01f4cc820e97ebc"
+    "revision": "f353337b32df2451fa87bb038c3874e1"
   },
   {
     "url": "Projekte/jerome/HB-RC-2-PBU-LED.html",
-    "revision": "301cb518cbb129665c81c4f7e3ae50ec"
+    "revision": "552d0f6f1e60efc4c55fa7baa6255dbd"
   },
   {
     "url": "Projekte/jerome/HB-UNI-RGB-LED-CTRL.html",
-    "revision": "0d9555ab2a67b06e5e2a1aebc490ed65"
+    "revision": "7115aaded91e38099e39d80ff34177d9"
   },
   {
     "url": "Projekte/jerome/HB-UNI-Sen-CAP-MOIST.html",
-    "revision": "5075244592d9114ad9583e2c22d06527"
+    "revision": "2167d02db93c9cfbfc1ec0531f8a5a77"
   },
   {
     "url": "Projekte/jerome/HB-UNI-Sen-RFID-RC.html",
-    "revision": "875c0aa855a42ae4106bc82a9391a8a2"
+    "revision": "07cef02fcf0a8a42464a63ea502b3a9f"
   },
   {
     "url": "Projekte/jerome/HB-UNI-Sen-TEMP-DS18B20.html",
-    "revision": "3ab6c603407c5538e6bd567dcd426657"
+    "revision": "0b328e9ab9031bf7a2cda6a27288947d"
   },
   {
     "url": "Projekte/jerome/HB-UNI-Sen-TEMP-IR.html",
-    "revision": "b43beac09d0ae56b56cc37fc37b3234c"
+    "revision": "302835311a96fba75259974cf4c9219b"
   },
   {
     "url": "Projekte/jerome/HB-UNI-Sen-WEA.html",
-    "revision": "71aadcd1e9d0715f9b36430359ab9eed"
+    "revision": "a2cfcebc445cf8a4deb6fc59b3fd0642"
   },
   {
     "url": "Projekte/jerome/HB-UNI-Sen-WEIGHT.html",
-    "revision": "951a69201d1aa5151075137704646fd6"
+    "revision": "05c7b029f7a08d929d0a8915facb5e29"
   },
   {
     "url": "Projekte/olliiiver/HM-minimal.html",
-    "revision": "1242c3a34f49287796548198df9dd986"
+    "revision": "3e8ed3fce47bb0345da3a2b6965c44a2"
   },
   {
     "url": "Projekte/pafra/HB_LED_Teelicht.html",
-    "revision": "dc12db93f03dac6f3be11d0bf48ea9a5"
+    "revision": "86faddf8aa4c8d52061e000b94bf96de"
   },
   {
     "url": "Projekte/pafra/Lichterkette_Powerbank.html",
-    "revision": "d1bb7a4219a3a3d5bf26475032c5b403"
+    "revision": "c4dcd05a2727edb89448238de0f5cc2b"
   },
   {
     "url": "Projekte/Projekt-hinzufuegen.html",
-    "revision": "e020b60fe4155fb001f851499fb07f19"
+    "revision": "d00720e5b2da2163d93a4204397f7f16"
   },
   {
     "url": "Projekte/psi/HM-LC-Dim1PWM-LinearPWM.html",
-    "revision": "a81345a2f8ac0972344c1d817141363e"
+    "revision": "3fad21a0f496d72feba82e122adee16e"
   },
   {
     "url": "Projekte/psi/HM-LC-Dim1PWM/index.html",
-    "revision": "1dda8540295fd76ed82da72a96118643"
+    "revision": "eb4ae7d38ac11b72358a6b9d61a54efa"
   },
   {
     "url": "Projekte/psi/HM-WDS40-TH-I-BME280/index.html",
-    "revision": "a756808f2da3a61ae6bfe042b5b52309"
+    "revision": "8d3e21f59b373bcd8266c06380ce5366"
   },
   {
     "url": "Projekte/psi/HMSensor/HM-SEC-RHS.html",
-    "revision": "27d2e5fbdc8ef1aa05b7e7f2b7101efa"
+    "revision": "ccf05be1013f56834526ff639305cff5"
   },
   {
     "url": "Projekte/psi/HMSensor/HM-WDS40-TH-I-RTC-BME280.html",
-    "revision": "4b104e3f3247be69a260fc4fd34086ef"
+    "revision": "354621310278dbc4171cfaec83cab6ec"
   },
   {
     "url": "Projekte/psi/HMSensor/index.html",
-    "revision": "e735438c54598aa75d1c1adad97306e9"
+    "revision": "904fbf4a03c03a1408e69ef39465fe91"
   },
   {
     "url": "Projekte/ronny/HB-UNI-SenAct-4-4-Hutschiene.html",
-    "revision": "903d2def5bc0deb4c092df66387dea4c"
+    "revision": "d21c9afbdbd23d62ac17857ffc51872b"
   },
   {
     "url": "Projekte/ronny/HB-UNI-SenAct-4-4.html",
-    "revision": "89cf1564b4f0f39190d000bc0fb2b0e0"
+    "revision": "e4f56e00c57f6ceb959699c216cb37d6"
   },
   {
     "url": "Projekte/ronny/HB-UNI-SenAct-8-8-Hutschiene.html",
-    "revision": "aae4868df72417d1a096bfc463abe79a"
+    "revision": "3f3c4253374dfd01fbd8d7a2c852fc5a"
   },
   {
     "url": "Projekte/ronny/HM-LC-Sw1-PCB-12V.html",
-    "revision": "38d8026a775b769968f44c4c6fd9295d"
+    "revision": "3383d45426a98b425a44c1bea38c3834"
   },
   {
     "url": "Projekte/ronny/HM-LC-Sw1-PCB-230V-TR.html",
-    "revision": "b95283f9bfd072aae4d9bad7a68df699"
+    "revision": "ce054131198ccd869d32744324dc5d5f"
   },
   {
     "url": "Projekte/ronny/HM-LC-Sw1-PCB-230V.html",
-    "revision": "eded49972baeed3f3897074be8f18405"
+    "revision": "67c36e1ab148fd8075c7b0334c0b0e34"
   },
   {
     "url": "Projekte/ronny/HM-LC-Sw2-12V.html",
-    "revision": "86ea241ade293f6606c3810c527ba562"
+    "revision": "fd0b6e3c8dafb492bd26f1af3392ca6e"
   },
   {
     "url": "Projekte/ronny/HM-LC-Sw2-230V.html",
-    "revision": "dbe463934b47143d5c8c501ba15d9d31"
+    "revision": "8becc50984d16b0697a1509cda6581eb"
   },
   {
     "url": "Projekte/ronny/HM-MOD-Re-8.html",
-    "revision": "7e1f6295560ad2ac525b943eaace018f"
+    "revision": "1875c552a6a68ec4b7c6a06d614d9ca7"
   },
   {
     "url": "Projekte/ronny/HM-PBI-4-FM.html",
-    "revision": "71630b4acce9a77ffa359b3383a31685"
+    "revision": "3423507a1b84a426c9728d78aa93959b"
   },
   {
     "url": "Projekte/ronny/Wandtaster.html",
-    "revision": "a0870ae1bd04a19e466270bc55e98bae"
+    "revision": "555553c4fdffaf39a83d211a6566000c"
   },
   {
     "url": "Projekte/spezialtrick/HM-MyS-Relay-Board.html",
-    "revision": "1c73dd64f5a577bc192ddf5416834862"
+    "revision": "b04ce7c191c8e356bc889f0e971f15d1"
   },
   {
     "url": "Projekte/ssbingo/HB-OU-RGB-STACKFIRE.html",
-    "revision": "f5fd5580a967f0b5e76a4868deb49e09"
+    "revision": "d095a40b1cdffd5b4d27b1a0a7368138"
   },
   {
     "url": "Projekte/ssbingo/HB-UNI-Sen-Lev-Vo.html",
-    "revision": "49242a8122c0619c7e9f00afde89795b"
+    "revision": "c15b1cc0d0df446028a968861e09c8eb"
   },
   {
     "url": "Projekte/stan23/HM-ES-PMSw1-Pl_GosundSP1.html",
-    "revision": "c5ee94e14aac31cdaf108ae2bc4e1675"
+    "revision": "42f781015468c10d4e68298f460b1e4c"
   },
   {
     "url": "Projekte/stan23/HM-LC-Bl1-FM-DC.html",
-    "revision": "2a66fa1a5a30b8a8d035eec998726bd8"
+    "revision": "e7bd39703cbca0a17d6ecd40f10bfd15"
   },
   {
     "url": "Projekte/stan23/HM-LC-Sw1-Pl-DN-R1_OBI.html",
-    "revision": "d37b947b82374332cd22e6f4cb00d118"
+    "revision": "58d53e96099b091bf6b7fe3880799155"
   },
   {
     "url": "Projekte/tom-major/HB-SEC-WDS-2.html",
-    "revision": "2f507a7575a143e96215f62e4e6e20f2"
+    "revision": "5068665a2c1f941feac9b5e7d4191ed3"
   },
   {
     "url": "Projekte/tom-major/HB-SEN-LJet.html",
-    "revision": "349fd17be478a71352b0d03b445eebd1"
+    "revision": "73af534d4216fd9a552ff8368b6da9df"
   },
   {
     "url": "Projekte/tom-major/HB-UNI-Sensor1.html",
-    "revision": "5e312b4383ac2db49e9c185edc5dd0dd"
+    "revision": "979e83b6a94715d6f656798afadb2b97"
   },
   {
     "url": "Projekte/trilu2000/HB-CDL-6.html",
-    "revision": "043fad4a3add6297a374fb358b6efd00"
+    "revision": "8f6cf90e0471923939e306a890dcc46e"
   },
   {
     "url": "Projekte/Umbau.html",
-    "revision": "9dbd616f79cb65b5a6ee7a1d2da13f3f"
+    "revision": "80b78faa6e7b4f4de9066e92e01bda9c"
   },
   {
     "url": "Projekte/wolwin/HB-LC-BL1-Velux.html",
-    "revision": "39fbb83f8137b2fa5e033f5f4b446bcc"
+    "revision": "31fc4546569cddbcb5ccf69ec19f2318"
   },
   {
     "url": "Projekte/wolwin/HB-SCI-4-O-Gar118x.html",
-    "revision": "6a752cb11b514764c53fcc5190de0b23"
+    "revision": "a7899d9d7972ccd190b4f6e58dcde185"
   },
   {
     "url": "rftypes/HomeBrew.html",
-    "revision": "582d127a83c616e9c85d354b8f98ae88"
+    "revision": "eadc6d9a09c9c7c585e2ff8356e79a8e"
   },
   {
     "url": "rftypes/index.html",
-    "revision": "10539715b38c6e493e30c4158a19f320"
+    "revision": "7f465227281e13924a6cc53e10703f75"
   },
   {
     "url": "Sketche/index.html",
-    "revision": "6149cab91ddd4ff283ec4c0a54aa8e9a"
+    "revision": "8be50c3a132ea1028f81b0e5a2832e6f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
